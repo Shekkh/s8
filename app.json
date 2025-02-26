@@ -28,12 +28,12 @@
         },
         "TOKEN": {
             "description": " توكن البوت",
-            "value": "7233031990:AAFj_pwKvWBEI31S1vUhNd-VLTEdfalBvK8",
+            "value": "",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "ux1bot",
+            "value": "",
             "required": true
         }
     }
